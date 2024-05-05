@@ -35,7 +35,7 @@ task javadocJar(type: Jar) {
 
 dependencies {
     api "net.java.dev.jna:jna:$jnaVersion"
-    api 'org.slf4j:slf4j-api:1.7.6', optional
+    api 'org.slf4j:slf4j-api:1.7.36', optional
 }
 
 publishing {
