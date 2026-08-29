@@ -23,7 +23,7 @@ http_archive(
 # Google benchmark.
 http_archive(
     name = "com_github_google_benchmark",
-    urls = ["https://github.com/google/benchmark/archive/16703ff83c1ae6d53e5155df3bb3ab0bc96083be.zip"],
-    strip_prefix = "benchmark-16703ff83c1ae6d53e5155df3bb3ab0bc96083be",
-    sha256 = "59f918c8ccd4d74b6ac43484467b500f1d64b40cc1010daa055375b322a43ba3",
+    urls = ["https://github.com/google/benchmark/archive/04b5f41ec7e3b68b28a2379bc19804a48953117d.zip"],
+    strip_prefix = "benchmark-04b5f41ec7e3b68b28a2379bc19804a48953117d",
+    sha256 = "1dd36cb75816089fe5d7f06d29f68a59496254777f82edbd12a399ed8720f0a9",
 )
